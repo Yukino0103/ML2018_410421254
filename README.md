@@ -6,20 +6,22 @@
   <li>用Least Mean Square演算法求出W</li>
   <li>用W解密出圖片</li>
 </ol>
+
 <ol>
   <li>w1 = 0.24914331 </li>
   <li>w2 = 0.6613819 </li>
   <li>w3 = 0.08923953 </li>
 </ol>
+
 #### 轉換前 #
-![Alt text](https://github.com/Yukino0103/ML2018_410421254/blob/master/HW1/Eprime.png)
+![A](https://imgur.com/om0Bba0)
 
 #### 轉換後 #
-![Alt text](https://github.com/Yukino0103/ML2018_410421254/blob/master/HW1/%E8%A7%A3%E5%AF%86%E5%9C%96%E7%89%87.png)
+![B](https://imgur.com/kIFpn4l)
 
 
-Python只是最近才學的,不懂怎讀取圖片之類的,
-學會Github的基本功能,第一次用Python寫這種圖片的處理,從中學會了pil,numpy的用法
+Python只是最近才學的,不懂怎讀取圖片之類的,google了許多資料才知道要怎寫
+從中學會Github的基本功能,第一次用Python寫這種圖片的處理,從中學會了pil,numpy的用法
 參考網站:
 http://chu246.blogspot.tw/2017/12/python-numpy.html
 
